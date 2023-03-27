@@ -21,19 +21,39 @@ Stack Overflow is an excellent source of data, it is a programming question and 
 This section is focused on uncovering insights from the data and answering the business questions. After loading both csv files into the workspace I was able to 
 analyse and visualize the insights belows:
 
-1 What fraction of the total number of question asked in 2019 had the R tag ?
+1 What fraction of the total number of question asked in 2019 had the R tag ? 
 
-2 What fraction of the total number of question asked in 2019 had the Python tag ?
+Answer: 0.9657
+
+2 What fraction of the total number of question asked in 2019 had the Python tag ? 
+
+Answer: 4.3278
 
 3 What were the 5 most asked about tags between 2015-2020 ?
 
-4 How has R programming language changed in popularity over time ?
+Answer: Javascript, Java, Python, php, and Andriod in descending order.
 
-5 How has ggplot2 and dplyr changed over time?
+4 How has R programming language changed in popularity over time ? 
 
-6 What are the most asked about tags?
+Answer: R has been growing pretty fast in the last decade, it is yet to see a decline in popularity
+
+5 How has ggplot2 and dplyr changed over time? 
+
+Answer: ggplot2 and dplyr are both growing in popularity but not on the same pace as R
+
+6 What are the most asked about tags? 
+
+Answer: Javascript, Java, Python, php, and Andriod in descending order.
 
 7 How has the large programming languages changed over time?
 
-8 How has the 3 big mobile operating system (Andriod,IOS, and Windows phone) compared  in popularity over time ?
+Answer: The six largest programming languages which include Javascript, Java, Python, php,Andriod and c# in descending order was visualized to examine how they  changeg in popularity over time. The graph shows that Javascript, Java, php, and C# started out growing in popularity but began to shrink or decline over time, while python has been growing rapidly without decline.
+
+8 How has the 3 big mobile operating system (Andriod,IOS, and Windows phone) compared  in popularity over time?
+
+Answer:  Android experienced a rapid growth between 2007 and 2012 after which it started declining, IOS experienced growth between 2007-2012 and started declining afterward, Windows phone on the other hand has been static over the years.
+
+# CONCLUSION
+Performing exploratory data analysis on the dataset helped me uncover valuable insight from the dataset,using statistical graphs and graphical visualization methods to analyze and investigate the datasets I was able to answer the business questions. 
+
 
