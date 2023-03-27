@@ -1,5 +1,7 @@
 # EXPLORATORY DATA ANALYSIS IN R : Analyzing the relative popularity of programming languages over time based on Stack Overflow data.
 
+![](![stackoverflow-1](https://user-images.githubusercontent.com/105368173/228001250-b932b334-7592-4082-a8bd-2b7532f69888.png)
+
 I carried out exploratory data analysis to discover the programming languages and technologies that are used by the most people? Also what languages are growing and which are shrinking, so that we can tell which are most worth investing time in?
  
  ## ABOUT THE DATASET
