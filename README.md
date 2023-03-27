@@ -31,7 +31,7 @@ Answer: 4.3278
 
 3 What were the 5 most asked about tags between 2015-2020 ?
 
-Answer: Javascript, Java, Python, php, and Andriod in descending order.
+Answer: Javascript, Java, Python, php, and Andriod arranged in descending order.
 
 4 How has R programming language changed in popularity over time ? 
 
@@ -43,11 +43,11 @@ Answer: ggplot2 and dplyr are both growing in popularity but not on the same pac
 
 6 What are the most asked about tags? 
 
-Answer: Javascript, Java, Python, php, and Andriod in descending order.
+Answer: Javascript, Java, Python, php, and Andriod arranged in descending order.
 
 7 How has the large programming languages changed over time?
 
-Answer: The six largest programming languages which include Javascript, Java, Python, php,Andriod and c# in descending order was visualized to examine how they  changeg in popularity over time. The graph shows that Javascript, Java, php, and C# started out growing in popularity but began to shrink or decline over time, while python has been growing rapidly without decline.
+Answer: The six largest programming languages which include Javascript, Java, Python, php,Andriod and c# arranged in descending order was visualized to examine how they  changeg in popularity over time. The graph shows that Javascript, Java, php, and C# started out growing in popularity but began to shrink or decline over time, while python has been growing rapidly without decline.
 
 8 How has the 3 big mobile operating system (Andriod,IOS, and Windows phone) compared  in popularity over time?
 
