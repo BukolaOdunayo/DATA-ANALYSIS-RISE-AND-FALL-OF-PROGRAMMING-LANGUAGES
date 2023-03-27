@@ -54,6 +54,7 @@ Answer: The six largest programming languages which include Javascript, Java, Py
 Answer:  Android experienced a rapid growth between 2007 and 2012 after which it started declining, IOS experienced growth between 2007-2012 and started declining afterward, Windows phone on the other hand has been static over the years.
 
 # CONCLUSION
-Performing exploratory data analysis on the dataset helped me uncover valuable insight from the dataset,using statistical graphs and graphical visualization methods to analyze and investigate the datasets I was able to answer the business questions. 
+Performing exploratory data analysis on the dataset helped me uncover valuable insight from the dataset,using statistical graphs and graphical visualization methods to analyze and investigate the datasets I was able to answer the business questions.
 
-
+# CREDITS
+This project is available on Datacamp as a guided and unguided project I completed both and merged it together.The guided project was created by David Robinson, while the unguided project was created by Sarah Billen. For the guided project I Followed step-by-step tasks to solve the problems/answer the business questions as provided by the creator,I received helpful feedback as I applied my skills to reach the solution. For the unguided project I Solved open-ended data science problems without step-by-step tasks. 
